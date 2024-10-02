@@ -1,4 +1,13 @@
-# PRATIKUM 3 Sistem File (File System)
+## Informasi Mahasiswa
+**Nama: Herdian Arya Erlangga**\
+**NIM: 09011182328099**\
+**Kelas: SK3C**
+<br>
+<div align="Center">
+  
+### PRATIKUM 3 Sistem File (File System)
+</div>
+
 
 
 1. Lihat peralatan I/O, character device, yang ada pada system komputer.
